@@ -2,19 +2,23 @@
     "phoneNumbers": [
         {
             "phoneNumber": "27717311486",
-            "expireDate": 1744068959000  
+            "expireDate": 1744068959000,
+            "note": "Lifetime for VIP access"
         },
         {
             "phoneNumber": "27664130258",
-            "expireDate": 1744068959000  
+            "expireDate": 1744068959000,
+            "note": "Lifetime for VIP access"
         },
         {
             "phoneNumber": "27645319912",
-            "expireDate": 1744068959000  
+            "expireDate": 1744068959000,
+            "note": "Lifetime for VIP access"
         },
         {
             "phoneNumber": "27602174475",
-            "expireDate": 1744068959000  
+            "expireDate": 1744068959000,
+            "note": "Lifetime for VIP access"
         }
     ]
 }
