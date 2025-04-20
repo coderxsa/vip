@@ -1,9 +1,6 @@
 {
     "phoneNumbers": [
-
-
-
-
+        
         {
             "phoneNumber": "27717311486",
             "expireDate": 1775604959000, 
@@ -11,26 +8,6 @@
         },
         {
             "phoneNumber": "27664130258",
-            "expireDate": 1775604959000, 
-            "note": "LIFE TIME"
-        },
-        {
-            "phoneNumber": "27645319912",
-            "expireDate": 1775604959000, 
-            "note": "LIFE TIME"
-        },
-        {
-            "phoneNumber": "27602174475",
-            "expireDate": 1775604959000,
-            "note": "LIFE TIME"
-        },
-        {
-            "phoneNumber": "27635950892",
-            "expireDate": 1775604959000,
-            "note": "LIFE TIME"
-        },
-                {
-            "phoneNumber": "27640434089",
             "expireDate": 1775604959000, 
             "note": "LIFE TIME"
         }
